@@ -146,6 +146,7 @@ set(SQLB_MOC_HDR
 	src/DotenvFormat.h
 	src/Palette.h
 	src/CondFormat.h
+	src/RunSql.h
 )
 
 set(SQLB_SRC
@@ -195,6 +196,7 @@ set(SQLB_SRC
 	src/DotenvFormat.cpp
 	src/Palette.cpp
 	src/CondFormat.cpp
+	src/RunSql.cpp
 )
 
 set(SQLB_FORMS
